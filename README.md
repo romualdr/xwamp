@@ -13,7 +13,11 @@ Heavily inspired by the now defunct ZWAMP.
 
 ## Getting started
 
-Grab the latest release [here](https://github.com/romualdr/xwamp/releases), unzip and run the file `xwamp.exe`
+Grab the latest release [here](https://github.com/romualdr/xwamp/releases), unzip and run the file `xwamp.exe`.
+
+## Where do i put my code ?
+
+You can add your PHP files or your web application in the `vdrive\web` folder.
 
 ## Tools and versions
 

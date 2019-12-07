@@ -13,7 +13,7 @@ Heavily inspired by the now defunct ZWAMP.
 
 ## Getting started
 
-Grab the latest release [here]([Download](https://github.com/romualdr/xwamp/releases) and run the file `xwamp.exe`
+Grab the latest release [here](https://github.com/romualdr/xwamp/releases) and run the file `xwamp.exe`
 
 ## Tools and versions
 

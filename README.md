@@ -1,8 +1,9 @@
-# XWAMP
+# ![logo](./icon/icon_small.png) XWAMP
 
-Zero install WAMP / XAMP built with Golang.
+Lightweight zero install WAMP built with Golang. Heavily inspired by the now defunct ZWAMP.
 
-Heavily inspired by ZWAMP.
+
+![screenshot](./screenshot.png)
 
 ## Getting started
 
@@ -30,5 +31,3 @@ Download the latest release [here]() and run the file `xwamp.exe`
 
 [Adminer 4.7.5](https://www.adminer.org/)
 
-## TODO
-- About

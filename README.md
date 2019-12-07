@@ -1,7 +1,9 @@
-# ![logo](./icon/icon_small.png) XWAMP
+# ![logo](./icon/icon_small.png) XWAMP 
 
 > Zero install WAMP built with Golang.
->
+[Download 0.1.0 now](https://github.com/romualdr/xwamp/releases/download/v0.1.0-alpha/xwamp-0.1.0-alpha.zip)
+
+
 The goal of XWAMP is to provide a simple executable to run web developments tools with one click.
 
 Heavily inspired by the now defunct ZWAMP.
@@ -11,7 +13,7 @@ Heavily inspired by the now defunct ZWAMP.
 
 ## Getting started
 
-Download the latest release [here]() and run the file `xwamp.exe`
+Grab the latest release [here]() and run the file `xwamp.exe`
 
 ## Tools and versions
 

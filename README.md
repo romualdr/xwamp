@@ -1,6 +1,10 @@
 # ![logo](./icon/icon_small.png) XWAMP
 
-Lightweight zero install WAMP built with Golang. Heavily inspired by the now defunct ZWAMP.
+> Zero install WAMP built with Golang.
+>
+The goal of XWAMP is to provide a simple executable to run web developments tools with one click.
+
+Heavily inspired by the now defunct ZWAMP.
 
 
 ![screenshot](./screenshot.png)

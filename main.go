@@ -20,6 +20,7 @@ type Service struct {
 	// Displayed
 	windowed  bool
 	isRunning bool
+	open      string
 	entry     *systray.MenuItem
 }
 
@@ -32,6 +33,7 @@ var services = [4]Service{{
 	args:          "",
 	windowed:      false,
 	isRunning:     false,
+	open:          `http://localhost`,
 }, {
 	name:          "MongoDB",
 	tooltip:       "Document oriented database",
@@ -284,6 +286,9 @@ func createUI() {
 					stop(service, nil)
 				} else {
 					start(service)
+					if len(service.open) > 0 {
+						open(service.open)
+					}
 				}
 				updateUI()
 			}

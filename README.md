@@ -4,7 +4,7 @@
 [Download 0.1.0 now](https://github.com/romualdr/xwamp/releases/download/v0.1.0-alpha/xwamp-0.1.0-alpha.zip)
 
 
-The goal of XWAMP is to provide a simple executable to run web developments tools with one click.
+The goal of XWAMP is to provide a simple executable to run web developments tools with one click. It's packed with Apache / MySQL / PHP / Mongo and administration tools pre-configured.
 
 Heavily inspired by the now defunct ZWAMP.
 
